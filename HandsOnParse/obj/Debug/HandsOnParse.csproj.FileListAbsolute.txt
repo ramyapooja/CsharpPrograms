@@ -1,0 +1,6 @@
+D:\ramya\c#\HandsOn\HandsOnParse\bin\Debug\HandsOnParse.exe.config
+D:\ramya\c#\HandsOn\HandsOnParse\bin\Debug\HandsOnParse.exe
+D:\ramya\c#\HandsOn\HandsOnParse\bin\Debug\HandsOnParse.pdb
+D:\ramya\c#\HandsOn\HandsOnParse\obj\Debug\HandsOnParse.csprojAssemblyReference.cache
+D:\ramya\c#\HandsOn\HandsOnParse\obj\Debug\HandsOnParse.exe
+D:\ramya\c#\HandsOn\HandsOnParse\obj\Debug\HandsOnParse.pdb

@@ -1,0 +1,6 @@
+D:\ramya\c#\HandsOn\DemoDelegate2\bin\Debug\DemoDelegate2.exe.config
+D:\ramya\c#\HandsOn\DemoDelegate2\bin\Debug\DemoDelegate2.exe
+D:\ramya\c#\HandsOn\DemoDelegate2\bin\Debug\DemoDelegate2.pdb
+D:\ramya\c#\HandsOn\DemoDelegate2\obj\Debug\DemoDelegate2.csprojAssemblyReference.cache
+D:\ramya\c#\HandsOn\DemoDelegate2\obj\Debug\DemoDelegate2.exe
+D:\ramya\c#\HandsOn\DemoDelegate2\obj\Debug\DemoDelegate2.pdb

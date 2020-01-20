@@ -1,0 +1,5 @@
+D:\ramya\c#\HandsOn\StudentDetails1\bin\Debug\StudentDetails1.exe.config
+D:\ramya\c#\HandsOn\StudentDetails1\bin\Debug\StudentDetails1.exe
+D:\ramya\c#\HandsOn\StudentDetails1\bin\Debug\StudentDetails1.pdb
+D:\ramya\c#\HandsOn\StudentDetails1\obj\Debug\StudentDetails1.exe
+D:\ramya\c#\HandsOn\StudentDetails1\obj\Debug\StudentDetails1.pdb

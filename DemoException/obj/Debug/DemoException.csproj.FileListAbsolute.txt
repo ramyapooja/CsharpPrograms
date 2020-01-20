@@ -1,0 +1,6 @@
+D:\ramya\c#\HandsOn\DemoException\bin\Debug\DemoException.exe.config
+D:\ramya\c#\HandsOn\DemoException\bin\Debug\DemoException.exe
+D:\ramya\c#\HandsOn\DemoException\bin\Debug\DemoException.pdb
+D:\ramya\c#\HandsOn\DemoException\obj\Debug\DemoException.csprojAssemblyReference.cache
+D:\ramya\c#\HandsOn\DemoException\obj\Debug\DemoException.exe
+D:\ramya\c#\HandsOn\DemoException\obj\Debug\DemoException.pdb

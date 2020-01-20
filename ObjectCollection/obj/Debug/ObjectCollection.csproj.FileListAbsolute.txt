@@ -1,0 +1,6 @@
+D:\ramya\c#\HandsOn\ObjectCollection\bin\Debug\ObjectCollection.exe.config
+D:\ramya\c#\HandsOn\ObjectCollection\bin\Debug\ObjectCollection.exe
+D:\ramya\c#\HandsOn\ObjectCollection\bin\Debug\ObjectCollection.pdb
+D:\ramya\c#\HandsOn\ObjectCollection\obj\Debug\ObjectCollection.csprojAssemblyReference.cache
+D:\ramya\c#\HandsOn\ObjectCollection\obj\Debug\ObjectCollection.exe
+D:\ramya\c#\HandsOn\ObjectCollection\obj\Debug\ObjectCollection.pdb

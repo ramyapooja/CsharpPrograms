@@ -1,0 +1,6 @@
+D:\ramya\c#\HandsOn\DemoPartial\bin\Debug\DemoPartial.exe.config
+D:\ramya\c#\HandsOn\DemoPartial\bin\Debug\DemoPartial.exe
+D:\ramya\c#\HandsOn\DemoPartial\bin\Debug\DemoPartial.pdb
+D:\ramya\c#\HandsOn\DemoPartial\obj\Debug\DemoPartial.csprojAssemblyReference.cache
+D:\ramya\c#\HandsOn\DemoPartial\obj\Debug\DemoPartial.exe
+D:\ramya\c#\HandsOn\DemoPartial\obj\Debug\DemoPartial.pdb

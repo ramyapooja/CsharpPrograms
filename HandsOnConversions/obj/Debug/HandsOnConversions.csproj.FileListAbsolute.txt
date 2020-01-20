@@ -1,0 +1,6 @@
+D:\ramya\c#\HandsOn\HandsOnConversions\obj\Debug\HandsOnConversions.csprojAssemblyReference.cache
+D:\ramya\c#\HandsOn\HandsOnConversions\bin\Debug\HandsOnConversions.exe.config
+D:\ramya\c#\HandsOn\HandsOnConversions\bin\Debug\HandsOnConversions.exe
+D:\ramya\c#\HandsOn\HandsOnConversions\bin\Debug\HandsOnConversions.pdb
+D:\ramya\c#\HandsOn\HandsOnConversions\obj\Debug\HandsOnConversions.exe
+D:\ramya\c#\HandsOn\HandsOnConversions\obj\Debug\HandsOnConversions.pdb

@@ -1,0 +1,6 @@
+D:\ramya\c#\HandsOn\HandsOnVariablesWithDatatype\bin\Debug\HandsOnVariablesWithDatatype.exe.config
+D:\ramya\c#\HandsOn\HandsOnVariablesWithDatatype\bin\Debug\HandsOnVariablesWithDatatype.exe
+D:\ramya\c#\HandsOn\HandsOnVariablesWithDatatype\bin\Debug\HandsOnVariablesWithDatatype.pdb
+D:\ramya\c#\HandsOn\HandsOnVariablesWithDatatype\obj\Debug\HandsOnVariablesWithDatatype.csprojAssemblyReference.cache
+D:\ramya\c#\HandsOn\HandsOnVariablesWithDatatype\obj\Debug\HandsOnVariablesWithDatatype.exe
+D:\ramya\c#\HandsOn\HandsOnVariablesWithDatatype\obj\Debug\HandsOnVariablesWithDatatype.pdb
