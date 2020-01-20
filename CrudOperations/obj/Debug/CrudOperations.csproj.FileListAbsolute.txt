@@ -1,0 +1,6 @@
+D:\ramya\c#\Assignment1\CrudOperations\bin\Debug\CrudOperations.exe.config
+D:\ramya\c#\Assignment1\CrudOperations\bin\Debug\CrudOperations.exe
+D:\ramya\c#\Assignment1\CrudOperations\bin\Debug\CrudOperations.pdb
+D:\ramya\c#\Assignment1\CrudOperations\obj\Debug\CrudOperations.csprojAssemblyReference.cache
+D:\ramya\c#\Assignment1\CrudOperations\obj\Debug\CrudOperations.exe
+D:\ramya\c#\Assignment1\CrudOperations\obj\Debug\CrudOperations.pdb

@@ -1,0 +1,6 @@
+D:\ramya\c#\Assignment1\DisplayMsg\bin\Debug\DisplayMsg.exe.config
+D:\ramya\c#\Assignment1\DisplayMsg\bin\Debug\DisplayMsg.exe
+D:\ramya\c#\Assignment1\DisplayMsg\bin\Debug\DisplayMsg.pdb
+D:\ramya\c#\Assignment1\DisplayMsg\obj\Debug\DisplayMsg.csprojAssemblyReference.cache
+D:\ramya\c#\Assignment1\DisplayMsg\obj\Debug\DisplayMsg.exe
+D:\ramya\c#\Assignment1\DisplayMsg\obj\Debug\DisplayMsg.pdb

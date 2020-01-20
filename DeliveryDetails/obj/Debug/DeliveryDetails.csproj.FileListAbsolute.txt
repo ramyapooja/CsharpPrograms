@@ -1,0 +1,6 @@
+D:\ramya\c#\Assignment1\DeliveryDetails\bin\Debug\DeliveryDetails.exe.config
+D:\ramya\c#\Assignment1\DeliveryDetails\bin\Debug\DeliveryDetails.exe
+D:\ramya\c#\Assignment1\DeliveryDetails\bin\Debug\DeliveryDetails.pdb
+D:\ramya\c#\Assignment1\DeliveryDetails\obj\Debug\DeliveryDetails.csprojAssemblyReference.cache
+D:\ramya\c#\Assignment1\DeliveryDetails\obj\Debug\DeliveryDetails.exe
+D:\ramya\c#\Assignment1\DeliveryDetails\obj\Debug\DeliveryDetails.pdb
