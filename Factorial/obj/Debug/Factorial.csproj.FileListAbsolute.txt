@@ -1,0 +1,5 @@
+D:\ramya\c#\Assignment1\Factorial\bin\Debug\Factorial.exe.config
+D:\ramya\c#\Assignment1\Factorial\bin\Debug\Factorial.exe
+D:\ramya\c#\Assignment1\Factorial\bin\Debug\Factorial.pdb
+D:\ramya\c#\Assignment1\Factorial\obj\Debug\Factorial.exe
+D:\ramya\c#\Assignment1\Factorial\obj\Debug\Factorial.pdb

@@ -1,0 +1,6 @@
+D:\ramya\c#\Assignment1\GreetUser\bin\Debug\GreetUser.exe.config
+D:\ramya\c#\Assignment1\GreetUser\bin\Debug\GreetUser.exe
+D:\ramya\c#\Assignment1\GreetUser\bin\Debug\GreetUser.pdb
+D:\ramya\c#\Assignment1\GreetUser\obj\Debug\GreetUser.csprojAssemblyReference.cache
+D:\ramya\c#\Assignment1\GreetUser\obj\Debug\GreetUser.exe
+D:\ramya\c#\Assignment1\GreetUser\obj\Debug\GreetUser.pdb

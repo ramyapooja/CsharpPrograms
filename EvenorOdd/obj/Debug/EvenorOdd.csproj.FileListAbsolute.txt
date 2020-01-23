@@ -1,0 +1,5 @@
+D:\ramya\c#\Assignment1\EvenorOdd\bin\Debug\EvenorOdd.exe.config
+D:\ramya\c#\Assignment1\EvenorOdd\bin\Debug\EvenorOdd.exe
+D:\ramya\c#\Assignment1\EvenorOdd\bin\Debug\EvenorOdd.pdb
+D:\ramya\c#\Assignment1\EvenorOdd\obj\Debug\EvenorOdd.exe
+D:\ramya\c#\Assignment1\EvenorOdd\obj\Debug\EvenorOdd.pdb
